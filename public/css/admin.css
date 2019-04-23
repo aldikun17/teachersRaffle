@@ -1,0 +1,278 @@
+body{
+
+	font-family: tahoma;
+
+	font-size: 14px;
+
+	color: white;
+
+}
+.wrapper-banner{
+
+	height: 50px;
+
+	background-color: #4267b2;
+	width: 102%;
+	margin-left: -15px;
+
+}
+
+#sidebar
+{
+	background-color: #1d2129;
+	height: 670px;
+	max-height: 700px;
+}
+
+#usermenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#usermenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#usersubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#usersubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#teachermenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#teachermenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#teachersubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#teachersubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#departmentmenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#departmentmenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#deparmentsubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#deparmentsubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#subjectmenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#subjectmenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#subjectsubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#subjectsubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#sectionmenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#sectionmenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#sectionsubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#sectionsubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#schoolyearmenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#schoolyearmenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#schoolyearsubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#schoolyearsubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#elementarymenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#elementarymenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#elementarysubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#elementarysubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+#highschoolmenu{
+
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: white;
+
+}
+
+#highschoolmenu a{
+
+	text-decoration: none;
+
+	color: white;
+
+}
+
+#highschoolsubmenu{
+
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#highschoolsubmenu > li{
+
+	margin-bottom: 10px;
+
+}
+
+.link-items{
+
+	padding: 7px 7px 7px 7px;
+
+	margin-left: 10px;
+
+	margin-top: 8px;
+
+}
+
+
+
